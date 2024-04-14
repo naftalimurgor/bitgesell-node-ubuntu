@@ -3,9 +3,12 @@
 <img src="Icon.png" style="height: 60px;"/>
 
 
-A simple bash script to that offers install options for Bitgesell Node on Ubuntu 20.04+
-## Usage
 
+A simple bash script to that offers install options for Bitgesell Node on Ubuntu 20.04+
+
+## Usage
+Example in use:
+![Bitgesell Node](./usage.png)
 1. **Clone the Repository**
 
     Clone this repository to your local machine:
